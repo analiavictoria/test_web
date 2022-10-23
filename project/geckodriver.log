@@ -1,0 +1,121 @@
+1666487377137	geckodriver	INFO	Listening on 127.0.0.1:51245
+1666487377622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemio5Ya"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666487385507	Marionette	INFO	Marionette enabled
+1666487385517	Marionette	INFO	Listening on port 38871
+Read port: 38871
+Read port: 38871
+WebDriver BiDi listening on ws://127.0.0.1:37975
+1666487386897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemio5Ya/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37975/devtools/browser/ed505671-52b8-4e34-9f53-aea9420a486f
+1666487494806	geckodriver	INFO	Listening on 127.0.0.1:38977
+1666487494812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefkRHTF"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666487496939	Marionette	INFO	Marionette enabled
+1666487496943	Marionette	INFO	Listening on port 42827
+WebDriver BiDi listening on ws://127.0.0.1:39975
+Read port: 42827
+1666487497508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefkRHTF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39975/devtools/browser/269d757f-898b-4789-9554-c4b90460bb3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1666487506399	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card.9711ddb5389379a07665.js, line 5073: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666487513435	Marionette	INFO	Stopped listening on port 42827
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666487745956	geckodriver	INFO	Listening on 127.0.0.1:46725
+1666487745981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebEmG1s"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666487748130	Marionette	INFO	Marionette enabled
+1666487748134	Marionette	INFO	Listening on port 33879
+Read port: 33879
+WebDriver BiDi listening on ws://127.0.0.1:38083
+1666487748240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebEmG1s/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38083/devtools/browser/ba9e0c43-9f8f-43f9-8cf6-a50f35cb5c05
+1666487754015	Marionette	INFO	Stopped listening on port 33879
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+65150
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1666487974351	geckodriver	INFO	Listening on 127.0.0.1:43555
+1666487974858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK6EuBI"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666487977156	Marionette	INFO	Marionette enabled
+1666487977160	Marionette	INFO	Listening on port 46345
+WebDriver BiDi listening on ws://127.0.0.1:33795
+Read port: 46345
+1666487978340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6EuBI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33795/devtools/browser/e58c157c-b63b-4ec1-bcbc-45fa5328a101
+1666487982205	Marionette	INFO	Stopped listening on port 46345
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1666488033355	geckodriver	INFO	Listening on 127.0.0.1:49961
+1666488033359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYRqBmx"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666488035513	Marionette	INFO	Marionette enabled
+1666488035517	Marionette	INFO	Listening on port 42473
+Read port: 42473
+WebDriver BiDi listening on ws://127.0.0.1:56891
+1666488035615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYRqBmx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56891/devtools/browser/b980c51d-37a9-44f2-89b5-aa1a9baf776b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+JavaScript warning: https://assets.msn.com/bundles/v1/bingHomepage/latest/weather-card.9711ddb5389379a07665.js, line 5073: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1666488097574	Marionette	INFO	Stopped listening on port 42473
